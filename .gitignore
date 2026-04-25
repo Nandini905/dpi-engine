@@ -1,0 +1,19 @@
+# Compiled binaries
+dpi_engine
+dpi_engine.exe
+packet_analyzer
+*.o
+*.obj
+
+# Build directories
+build/
+out/
+
+# Output pcap (generated)
+output.pcap
+
+# IDE files
+.vscode/
+.vs/
+CMakeSettings.json
+compile_commands.json
